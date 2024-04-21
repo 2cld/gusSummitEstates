@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1/8&quot;=1'-0&quot;" height="264.69629597467065mm" id="root" version="1.1" viewBox="0 0 396.87498410542804 264.69629597467065" width="396.87498410542804mm">
+  <defs/>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="16.98752212524414" x2="16.98752212524414" y1="200.9559326171875" y2="39.030860900878906"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(15.98752212524414, 119.99339294433594) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">612&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="40.76613235473633" x2="40.76613235473633" y1="200.9559326171875" y2="124.755859375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(39.76613235473633, 162.85589599609375) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">288&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="334.46087646484375" x2="334.46087646484375" y1="200.9559326171875" y2="184.17349243164062"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(333.46087646484375, 192.56471252441406) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">63 55/128&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="347.1914978027344" x2="347.1914978027344" y1="191.4310302734375" y2="17.897716522216797"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(346.1914978027344, 104.66437530517578) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">655 7/8&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="334.46087646484375" x2="334.46087646484375" y1="39.03097915649414" y2="17.897695541381836"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(333.46087646484375, 28.464336395263672) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">79 7/8&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="334.46087646484375" x2="334.46087646484375" y1="200.9559326171875" y2="184.17349243164062"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(333.46087646484375, 192.56471252441406) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">63 55/128&quot;</tspan>
+  </text>
+  <line class="GlobalId-01emFNqTzARvikMK2zAF5r IfcAnnotation PredefinedType-DIMENSION" x1="334.46087646484375" x2="334.46087646484375" y1="200.9559326171875" y2="184.17349243164062"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(333.46087646484375, 192.56471252441406) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">63 55/128&quot;</tspan>
+  </text>
+</svg>

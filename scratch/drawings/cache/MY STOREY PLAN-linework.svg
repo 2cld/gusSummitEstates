@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ifc="http://www.ifcopenshell.org/ns" width="396.875mm" height="264.696mm" viewBox="0 0 396.875 264.696">
+    <defs>
+        <marker id="arrowend" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7"/>
+        </marker>
+        <marker id="arrowstart" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+          <polygon points="10 0, 0 3.5, 10 7"/>
+        </marker>
+    </defs>
+    <g ifc:name="Elevation MY STOREY PLAN" class="section" ifc:plane="[[1.000000,0.000000,0.000000,0.000000],[0.000000,1.000000,0.000000,0.000000],[0.000000,0.000000,1.000000,1.600000],[0.000000,0.000000,0.000000,1.000000]]" ifc:matrix3="[[10.416667,0.000000,96.362525],[0.000000,10.416667,200.955927],[0.000000,0.000000,1.000000]]">
+        <g id="product-ee678e82-8e04-4321-94d5-77a6fc3c1795" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3kPuw2ZWH38PJLTwRyF1UL">
+            <path d="M311.035,191.431 L311.035,19.981"/>
+            <path d="M313.118,191.431 L311.035,191.431"/>
+            <path d="M313.118,19.981 L313.118,191.431"/>
+            <path d="M311.035,19.981 L313.118,19.981"/>
+        </g>
+    <g id="product-f7e23c56-77cb-4dd7-b01e-731d05bb7a3c" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3tuZnMTyjDrx0USnq5ktey">
+            <path d="M211.237,185.53 L211.237,201.405"/>
+            <path d="M209.153,185.53 L211.237,185.53"/>
+            <path d="M209.153,201.405 L209.153,185.53"/>
+            <path d="M211.237,201.405 L209.153,201.405"/>
+        </g>
+        <g id="product-ce40529b-b06d-4278-a301-e5e1539961e9" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3EG5ARi6r2UAC1vU5JcM7f">
+            <path d="M195.643,182.09 L313.118,182.09"/>
+            <path d="M195.643,184.173 L195.643,182.09"/>
+            <path d="M313.118,184.173 L195.643,184.173"/>
+            <path d="M313.118,182.09 L313.118,184.173"/>
+        </g>
+        <g id="product-2de87da4-cec8-4b6b-a7a4-3aec802cc4b8" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0jw7sapiXBQwUaEko0BCIu">
+            <path d="M313.118,19.981 L252.793,19.981"/>
+            <path d="M313.118,17.8977 L313.118,19.981"/>
+            <path d="M252.793,17.8976 L313.118,17.8977"/>
+            <path d="M252.793,19.981 L252.793,17.8976"/>
+        </g>
+        <g id="product-7bbf74cb-0411-4976-a07f-78ddc9d85aa4" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1xltJB1159Tg1$UDt9s5ga">
+            <path d="M252.793,39.031 L252.793,19.981"/>
+            <path d="M254.876,39.031 L252.793,39.031"/>
+            <path d="M254.876,19.981 L254.876,39.031"/>
+            <path d="M252.793,19.981 L254.876,19.981"/>
+        </g>
+        <g id="product-9fcbb4fb-0e7e-4959-ab31-50743ac5fbae" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="2VoxJx3dv9MQinK7GwnVkk">
+            <path d="M254.876,41.1143 L96.1264,41.1142"/>
+            <path d="M254.876,39.031 L254.876,41.1143"/>
+            <path d="M96.1264,39.0309 L254.876,39.031"/>
+            <path d="M96.1264,41.1142 L96.1264,39.0309"/>
+        </g>
+        <g id="product-f9058b6a-e3e0-4940-ac9a-e022bddb9fb6" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3v1Ojgu_19GAoQu2Azsv_s">
+            <path d="M96.1264,126.839 L96.1264,41.1142"/>
+            <path d="M98.2097,126.839 L96.1264,126.839"/>
+            <path d="M98.2098,41.1142 L98.2097,126.839"/>
+            <path d="M96.1264,41.1142 L98.2098,41.1142"/>
+        </g>
+        <g id="product-417a7633-c769-4fc3-b3fe-50d8a46243fc" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="11UdOpnsbFmxF_KDYaOaFy">
+            <path d="M96.1264,124.756 L200.901,124.756"/>
+            <path d="M96.1264,126.839 L96.1264,124.756"/>
+            <path d="M200.901,126.839 L96.1264,126.839"/>
+            <path d="M200.901,124.756 L200.901,126.839"/>
+        </g>
+        <g id="product-663941e8-35dc-4fca-a44e-fa50b8aea816" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1cEK7eDTnFogHE_b2uhgWM">
+            <path d="M200.901,124.756 L200.901,200.956"/>
+            <path d="M198.818,124.756 L200.901,124.756"/>
+            <path d="M198.818,200.956 L198.818,124.756"/>
+            <path d="M200.901,200.956 L198.818,200.956"/>
+        </g>
+        <g id="product-52c65723-b61b-4476-ae5e-1e9d9679d163" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1InbSZjXj4TgvU7fsMUT5Z">
+            <path d="M201.138,200.956 L96.3625,200.956"/>
+            <path d="M201.138,198.873 L201.138,200.956"/>
+            <path d="M96.3625,198.873 L201.138,198.873"/>
+            <path d="M96.3625,200.956 L96.3625,198.873"/>
+        </g>
+        <g class="1cEK7eDTnFogHE_b2uhgWM 3tuZnMTyjDrx0USnq5ktey 3kPuw2ZWH38PJLTwRyF1UL cut 3EG5ARi6r2UAC1vU5JcM7f 0jw7sapiXBQwUaEko0BCIu 1xltJB1159Tg1$UDt9s5ga 2VoxJx3dv9MQinK7GwnVkk 11UdOpnsbFmxF_KDYaOaFy 1InbSZjXj4TgvU7fsMUT5Z material-null IfcWall 3v1Ojgu_19GAoQu2Azsv_s"><path d="M252.793,17.8976 L252.793,19.981 L252.793,39.03099868787071 L96.1264,39.0309 L96.1264,41.1142 L96.1264,124.756 L96.1264,126.839 L98.2097,126.839 L198.818,126.839 L198.818,182.09 L195.643,182.09 L195.643,184.173 L198.818,184.173 L198.818,198.873 L96.3625,198.873 L96.3625,200.956 L198.818,200.956 L200.901,200.956 L201.138,200.956 L201.138,198.873 L200.901,198.873 L200.901,184.173 L311.035,184.173 L311.035,191.431 L313.118,191.431 L313.118,184.173 L313.118,182.09 L313.118,19.981 L313.118,17.8977 Z M98.20979999999847,41.114201312381255 L254.876,41.1143 L254.876,39.031 L254.876,19.981 L311.035,19.981 L311.035,182.09 L200.901,182.09 L200.901,126.839 L200.901,124.756 L198.818,124.756 L98.2097024298686,124.756 Z"/></g><g class="1cEK7eDTnFogHE_b2uhgWM 3tuZnMTyjDrx0USnq5ktey 3kPuw2ZWH38PJLTwRyF1UL cut 3EG5ARi6r2UAC1vU5JcM7f 0jw7sapiXBQwUaEko0BCIu 1xltJB1159Tg1$UDt9s5ga 2VoxJx3dv9MQinK7GwnVkk 11UdOpnsbFmxF_KDYaOaFy 1InbSZjXj4TgvU7fsMUT5Z material-null IfcWall 3v1Ojgu_19GAoQu2Azsv_s"><path d="M211.237,201.405 L211.237,185.53 L209.153,185.53 L209.153,201.405 Z"/></g></g>
+</svg>
