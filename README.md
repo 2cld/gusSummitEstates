@@ -11,6 +11,12 @@
 - cheatsheet https://gh.2cld.net/docs/blender/Blender%20Cheatsheet%20v1.pdf
 - https://github.com/2cld/blenderbim-tutorial
 
+## Random Steve House stuff
+- [ ] Chair Lift https://dmastairlifts.co.uk/wp-content/uploads/2022/04/DMA-1100-Manual.pdf
+- [ ] IR Reset Pairing P1 board button: https://www.manualslib.com/manual/1330950/Handicare-2000.html?page=18#manual
+- [ ] guscup project [github](https://github.com/2cld/guscup)
+- [ ] tbd
+
 ## Commits
 - 2024.04.21 just added draft annotations on test document print
 - could not figure out how to change annotations to ft (default is inches)
